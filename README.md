@@ -4,7 +4,7 @@ Submitted by: **Christian Orozco**
 
 **Translate Me** is an app that Uses firebase for its database to store saved translations. Translate Me is a simple English to Spanish translation app.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
